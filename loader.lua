@@ -11,6 +11,7 @@ local ScriptURL = "https://raw.githubusercontent.com/Kederal/Fate-Scripts/main/S
 local SupportedGames = {
     [7788040584] = 'PetLegacy';
     [8540346411] = 'RebirthChampionsX';
+    [8554378337] = 'WeaponFightingSimulator';
 }
 
 for i,v in next, SupportedGames do
